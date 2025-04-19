@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/evinb/Documents/CNN_Using_Cpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/evinb/Documents/Libraries/eigen-3.4.0/eigen-3.4.0 -g -std=gnu++17 -o CMakeFiles\\CNN_USING_CPP.dir\\main.cpp.obj -c C:\\Users\\evinb\\Documents\\CNN_Using_Cpp\\main.cpp",
+  "file": "C:\\Users\\evinb\\Documents\\CNN_Using_Cpp\\main.cpp",
+  "output": "CMakeFiles\\CNN_USING_CPP.dir\\main.cpp.obj"
+}
+]
